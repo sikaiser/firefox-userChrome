@@ -1,5 +1,8 @@
 /* Manually copy this into the css field in TST settings. */
 
+/* Hide border on tab bar, force its state to 'scroll', adjust margin-left for width of scrollbar. */
+#tabbar { border: 0; overflow-y: scroll !important; margin-left: -18px !important; }
+
 /* Hide .twisty and adjust margins so favicons have 7px on left. */
 .tab .twisty {
 	visibility: hidden;

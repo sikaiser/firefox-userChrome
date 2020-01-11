@@ -1,0 +1,11 @@
+@import "global/variables.css";
+@import "global/global.css";
+@import "icons/icons.css";
+@import "tabbar/tabbar.css";
+@import "navbar/navbar.css";
+@import "personalbar/personalbar.css";
+@import "popup/popup.css";
+@import "popup/urlbar-results.css";
+/* SOURCE: https://github.com/muckSponge/MaterialFox */
+/* The following line was added by Simon */
+@import "SimonTST.css"
